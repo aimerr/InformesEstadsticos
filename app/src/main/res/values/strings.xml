@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">InformesEstadísticos</string>
+    <string name="main_screen">INFORMES ESTADÍSTICOS</string>
+    <string name="second_screen">INFORME XXXXXXXXX</string>
+    <string name="second_screen1">Periodos</string>
+    <string name="third_screen1">Semestre</string>
+
+    <string name="Photos">Photos</string>
+
+
+    <string-array name="reports">
+        <item>12</item>
+        <item>15</item>
+        <item>14</item>
+        <item>13</item>
+    </string-array>
+
+    <string name="report1">ESTADÍSTICAS POBLACIONALES</string>
+    <string name="report2">PRUEBA SABER 11°</string>
+    <string name="report3">DESERCIÓN INTERSEMESTRAL</string>
+    <string name="report4">DESERCIÓN POR COHORTE</string>
+    <string name="report5">ESTADOS ACADÉMICOS Y PROMEDIOS ACUMULADOS</string>
+    <string name="report6">PERDIDOS Y RETIRADOS</string>
+    <string name="report7">UTILIZACIÓN DE SALONES</string>
+
+
+    <string name="periodo1">2014-1</string>
+    <string name="periodo2">2014-2</string>
+    <string name="periodo3">2015-1</string>
+    <string name="periodo4">2015-2</string>
+    <string name="periodo5">2016-1</string>
+    <string name="periodo6">2016-2</string>
+    <string name="periodo7">2017-1</string>
+
+
+</resources>
